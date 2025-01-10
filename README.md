@@ -96,13 +96,3 @@ Here are some screenshots showing the gameplay, chat log, and board interface:
 - **Game Logic**: Python (Chess piece movement and rules)
 
 ---
-
-## Contributing
-
-Feel free to fork this repository, submit issues, or open pull requests to contribute to the project.
-
----
-
-## License
-
-This project is licensed under the MIT License.
