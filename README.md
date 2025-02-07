@@ -6,6 +6,22 @@ This is a chess game developed using **Python** and **PyQt5**. The game allows p
 
 ---
 
+## Screenshots
+
+Here are some screenshots showing the gameplay, chat log, and board interface:
+
+### Chess Game Interface
+
+![Chess Game Window](board.png)  
+*The main game window showing the chessboard and controls.*
+
+### Chat and Log
+
+![Chat and Log Window](log.png)  
+*The chat window showing the move history and ongoing chat between players.*
+
+---
+
 ## Features
 
 - **Graphical User Interface (GUI)**:  
@@ -70,22 +86,6 @@ This is a chess game developed using **Python** and **PyQt5**. The game allows p
 
 6. **Reset**:
    - Use the reset button to restart the game from scratch.
-
----
-
-## Screenshots
-
-Here are some screenshots showing the gameplay, chat log, and board interface:
-
-### Chess Game Interface
-
-![Chess Game Window](board.png)  
-*The main game window showing the chessboard and controls.*
-
-### Chat and Log
-
-![Chat and Log Window](log.png)  
-*The chat window showing the move history and ongoing chat between players.*
 
 ---
 
